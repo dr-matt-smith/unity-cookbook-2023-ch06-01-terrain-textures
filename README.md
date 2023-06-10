@@ -1,1 +1,1 @@
-# unity-cookbook-2023-ch06_01_terrain_textures
+# unity-cookbook-2023-ch06-01-terrain-textures
